@@ -1,3 +1,3 @@
 # workshop
 
-Data for Ekal Data Science Workshop (Scripts will be added afterwards)
+Data and Code for Ekal Data Science Workshop
